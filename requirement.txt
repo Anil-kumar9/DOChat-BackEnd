@@ -1,0 +1,15 @@
+fastapi 
+uvicorn 
+python-multipart 
+pytesseract 
+pillow 
+langchain 
+openai
+sqlalchemy 
+databases 
+pymysql 
+alembic
+cohere
+PyPDF2
+sqlite
+pydantic
