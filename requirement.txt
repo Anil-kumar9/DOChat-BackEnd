@@ -11,5 +11,4 @@ pymysql
 alembic
 cohere
 PyPDF2
-sqlite3
 pydantic
