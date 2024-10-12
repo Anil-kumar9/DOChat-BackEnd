@@ -17,6 +17,7 @@ pytesseract.pytesseract.tesseract_cmd = (
 )
 app = FastAPI()
 
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],  
